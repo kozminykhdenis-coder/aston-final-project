@@ -1,0 +1,6 @@
+Clean Code;2008;464
+Algorithms;1990;720
+Design Patterns;1994;395
+;2010;300
+Effective Java;2050;416
+Refactoring;1999;431
